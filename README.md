@@ -1,5 +1,5 @@
 # FACE-RECOGNITION
-a face recognition project in Python using Face Recognition Library. This project leverages  OpenCV for image processing and NumPy for efficient numerical operations. The system detects and  recognizes faces by encoding facial features and comparing them with stored embeddings. 
+A Face recognition project in Python using Face Recognition Library. This project leverages  OpenCV for image processing and NumPy for efficient numerical operations. The system detects and  recognizes faces by encoding facial features and comparing them with stored embeddings. 
 This project is a simple face recognition system using OpenCV and face_recognition libraries. It allows you to encode known faces, recognize faces in images, and recognize faces in a live webcam feed.
 
 ## Features
