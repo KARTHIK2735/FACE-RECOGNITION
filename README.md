@@ -10,7 +10,7 @@ This project is a simple face recognition system using OpenCV and face_recogniti
 ## Requirements
 Ensure you have the following dependencies installed before running the project:
 
-- Python 3.x
+- Python 3.11 ( for cv2  to work properly)
 - OpenCV (`cv2`)
 - face_recognition
 - NumPy
