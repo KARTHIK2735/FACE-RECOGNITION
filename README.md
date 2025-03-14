@@ -54,10 +54,7 @@ python face_recognition.py
 ## Notes
 - If no known faces are encoded, options 2 and 3 will not function properly.
 - Ensure images are clear and well-lit for better recognition accuracy.
-
-## License
-This project is licensed under the MIT License.
-
+- 
 ## Author
-Your Name
+`KARTHIK`
 
